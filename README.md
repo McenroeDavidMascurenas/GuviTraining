@@ -1,2 +1,2 @@
 # GuviTraining
-These are files while in GUVI. In the future memory of GUVI Learning
+This is a repo in which i am commiting all the files i wrote in selenium training
